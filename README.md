@@ -1,6 +1,6 @@
 # Crosshairs
 
-**TODO:** Describe what your plugin does.
+Add a crosshair to the webcam display in OctoPrint's Control tab.
 
 ## Setup
 
@@ -8,10 +8,14 @@ Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bu
 or manually using this URL:
 
     https://github.com/ChippedChap/Crosshairs/archive/master.zip
-
-**TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
-the plugin manager.
-
+   
 ## Configuration
 
-**TODO:** Describe your plugin's configuration options (if any).
+Configuration options coming soon.
+
+Planned - Collapsible sidebar window with the following options:
+* Toggle crosshair on/off
+* Crosshair color and transparency
+* Crosshair size
+* Crosshair offset
+* Circle to measure and match circular features
