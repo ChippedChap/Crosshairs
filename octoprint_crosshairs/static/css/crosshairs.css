@@ -1,0 +1,20 @@
+/* TODO: Have your plugin's CSS files generated to here. */
+#crosshair-horz {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 1px;
+    background: magenta;
+}
+
+#crosshair-vert {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1px;
+    height: 100px;
+    background: magenta;
+}

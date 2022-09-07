@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_crosshairs/templates *
+recursive-include octoprint_crosshairs/translations *
+recursive-include octoprint_crosshairs/static *
