@@ -19,9 +19,7 @@ class CrosshairsPlugin(octoprint.plugin.SettingsPlugin,
     ##~~ SettingsPlugin mixin
 
     def get_settings_defaults(self):
-        return {
-            # put your plugin's default settings here
-        }
+        pass
 
     ##~~ AssetPlugin mixin
 
