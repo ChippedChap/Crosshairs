@@ -25,7 +25,6 @@ $(function() {
         }
 		
 		self.crosshair_toggle = function() {
-			console.log("Toggle Button clicked");
 			self.crosshair_enabled(!self.crosshair_enabled());
 		}
 		
