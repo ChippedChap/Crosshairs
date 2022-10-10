@@ -2,6 +2,8 @@
 
 Add a crosshair to the webcam display in OctoPrint's Control tab.
 
+![Crosshair usage](https://raw.githubusercontent.com/ChippedChap/Crosshairs/main/bCNC%2Boctoprint.PNG)
+
 ## Setup
 
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
